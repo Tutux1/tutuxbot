@@ -34,7 +34,7 @@
         "MENU": {
             "description": "COMMAND LIST එකට දාන්න ඕන දෙයක් තියෙනවන්ම් දාන්න",
             "required": false,
-            "value": "*⦁═⦁Queen 👸 Alexa⦁═⦁*"
+            "value": "⦁═𝗧𝘂𝘁𝘂 𝗯𝗼𝘁═⦁"
         },
         "SEND_READ": {
             "description": "Bot message seen කළාද නැතිද යන්න පරිශීලකට පෙන්විය යුතුද?",
